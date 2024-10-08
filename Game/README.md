@@ -6,7 +6,6 @@
 # 2         John   70
 # 3         Alice  50
 
-# Started
 # Note: Game Function should be import from game_utils.py file
 
 <!-- When User Enrolled In the Game -->
